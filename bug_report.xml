@@ -1,1 +1,20 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<bug_report>
+	<reproducibility>always</reproducibility>
+	<severity>trivial</severity>
+	<priority>minor</priority>
+	<product_version>none</product_version>
+	<summary>Emoji is not displayed in the comments to the news ixbt.com</summary>
+	<description>Не отображаются эмодзи в комменнтариях новостей на сайте ixbt.com</description>
+	<steps_to_reproduce>
+Все действия делать в Google Chrome
+1)Открыть сайт ixbt.com
+2)Открыть любую ссылку из раздела новости
+3)Сделать логин на сайт 
+4)Найти форму для ввода комментариев
+5)Поставить курсор в форму и нажать правой кнопкой мыши -> будет показано меню
+6)Выбрать пункт эмодзи и выбрать любую эмодзи несколько раз - они появится на форме 
+7)Нажать отправить -> страница перезагрузится
+Итог - комменнтарий есть, а содержимое не отображается
+</steps_to_reproduce>
+</bug_report>
