@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <skills>
+	<termnal_bash>yes</termnal_bash>
+	<git>yes</git>
+	<chrome_dev_tools>yes</chrome_dev_tools>
+	<test_api_postman>yes</test_api_postman>
+	<sql_basics>yes</sql_basics>
+	<mobile_testing>yes</mobile_testing>
+	<js_basics>yes</js_basics>
+	<css_basics>yes</css_basics>
+	<working_with_adb>yes</working_with_adb>
+	<working_with_charlies_fiddler>yes</working_with_charlies_fiddler>
+	<explorary_testing>yes</explorary_testing>
+	<white_box_testing>yes</white_box_testing>	    
+</skills>
